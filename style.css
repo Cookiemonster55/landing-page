@@ -20,8 +20,13 @@ header {
     flex-wrap: wrap;
     
 }
-
-header ul{
+.menu a{
+    color: black;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: rgb(1, 254, 199);
+    font-size: larger;
     flex-wrap: wrap;
 }
 
