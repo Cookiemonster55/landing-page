@@ -110,6 +110,10 @@ li{
     
 }
 
+.texte_robot h1{
+    font-size: larger;
+}
+
 footer{
     display: flex;
     flex-wrap: wrap;
